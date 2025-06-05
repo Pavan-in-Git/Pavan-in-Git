@@ -1,35 +1,33 @@
 <h1 align="center">Hi 👋, I'm Pavan Sai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h3 align="center">About Me 👨‍💻
-Hi there! I'm Pavan Sai, a B.Tech student in Mechanical Engineering with a minor in AI and ML at NIT Puducherry. My passion lies at the intersection of engineering, technology, and innovation.
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+  <h1>About Me 👨‍💻</h1>
+  <p>Hi there! I'm <strong>Pavan Sai</strong>, a <strong>B.Tech student in Mechanical Engineering</strong> with a minor in <strong>AI and ML</strong> at <strong>NIT Puducherry</strong>. My passion lies at the intersection of engineering, technology, and innovation.</p>
+  
+  <h2>🔧 Skills & Interests</h2>
+  <ul>
+    <li><strong>Programming Languages:</strong> Python, MATLAB, C++</li>
+    <li><strong>Technologies:</strong> Machine Learning, Deep Learning, ANSYS Fluent, CFD Simulations</li>
+    <li><strong>Development:</strong> Web Development, Robotics, 3D Printing</li>
+    <li><strong>Research:</strong> Multiscale modeling, Paraphrase Detection (NLP), Material Analysis</li>
+  </ul>
 
-🔧 Skills & Interests
-Programming Languages: Python, MATLAB, C++
+  <h2>🚀 Projects & Achievements</h2>
+  <ul>
+    <li>Designed a <strong>CFD drone simulation</strong> as part of the Robotics Club, where I serve as <strong>President</strong>.</li>
+    <li>Developed a <strong>paraphrase detection model</strong> using the Quora Question Pairs dataset.</li>
+    <li>Created a <strong>college fest promo</strong> for Leciel, showcasing creative direction and media editing skills.</li>
+    <li>Completed a <strong>45-day internship</strong> at <strong>Dr. Narla Tata Rao Thermal Power Station</strong>, working on <strong>boilers and turbines</strong>.</li>
+    <li>Published innovative solutions for optimizing <strong>3D printing techniques</strong>.</li>
+  </ul>
 
-Technologies: Machine Learning, Deep Learning, ANSYS Fluent, CFD Simulations
+  <h2>🌱 Currently</h2>
+  <p>Exploring <strong>deep learning</strong> in NLP and material simulations. Seeking opportunities to collaborate on impactful projects or research.</p>
 
-Development: Web Development, Robotics, 3D Printing
+  <h2>📫 Let's Connect!</h2>
+  <p>Feel free to check out my repositories, or reach out to discuss ideas and collaborations. Together, let's build the future! 😊</p>
+</div>
 
-Research: Multiscale modeling, Paraphrase Detection (NLP), Material Analysis
-
-🚀 Projects & Achievements
-Designed a CFD drone simulation as part of the Robotics Club, where I serve as President.
-
-Developed a paraphrase detection model using the Quora Question Pairs dataset.
-
-Created a college fest promo for Leciel, showcasing creative direction and media editing skills.
-
-Completed a 45-day internship at Dr. Narla Tata Rao Thermal Power Station, working on boilers and turbines.
-
-Published innovative solutions for optimizing 3D printing techniques.
-
-🌱 Currently
-Exploring deep learning in NLP and material simulations.
-
-Seeking opportunities to collaborate on impactful projects or research.
-
-📫 Let's Connect!
-Feel free to check out my repositories, or reach out to discuss ideas and collaborations. Together, let's build the future! 😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-in-git&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-in-git" /> </p>
 
