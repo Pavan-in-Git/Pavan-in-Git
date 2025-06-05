@@ -1,5 +1,35 @@
 <h1 align="center">Hi 👋, I'm Pavan Sai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">About Me 👨‍💻
+Hi there! I'm Pavan Sai, a B.Tech student in Mechanical Engineering with a minor in AI and ML at NIT Puducherry. My passion lies at the intersection of engineering, technology, and innovation.
+
+🔧 Skills & Interests
+Programming Languages: Python, MATLAB, C++
+
+Technologies: Machine Learning, Deep Learning, ANSYS Fluent, CFD Simulations
+
+Development: Web Development, Robotics, 3D Printing
+
+Research: Multiscale modeling, Paraphrase Detection (NLP), Material Analysis
+
+🚀 Projects & Achievements
+Designed a CFD drone simulation as part of the Robotics Club, where I serve as President.
+
+Developed a paraphrase detection model using the Quora Question Pairs dataset.
+
+Created a college fest promo for Leciel, showcasing creative direction and media editing skills.
+
+Completed a 45-day internship at Dr. Narla Tata Rao Thermal Power Station, working on boilers and turbines.
+
+Published innovative solutions for optimizing 3D printing techniques.
+
+🌱 Currently
+Exploring deep learning in NLP and material simulations.
+
+Seeking opportunities to collaborate on impactful projects or research.
+
+📫 Let's Connect!
+Feel free to check out my repositories, or reach out to discuss ideas and collaborations. Together, let's build the future! 😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-in-git&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-in-git" /> </p>
 
