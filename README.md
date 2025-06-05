@@ -2,6 +2,39 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <div style="font-family: Arial, sans-serif; line-height: 1.6;">
   <h1>About Me 👨‍💻</h1>
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Hello GIF" style="width: 100px; border-radius: 8px;">
+  <p>Hi there! I'm <strong>Pavan Sai</strong>, a <strong>B.Tech student in Mechanical Engineering</strong> with a minor in <strong>AI and ML</strong> at <strong>NIT Puducherry</strong>. My passion lies at the intersection of engineering, technology, and innovation.</p>
+  
+  <h2>🔧 Skills & Interests</h2>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Skills GIF" style="width: 100px; border-radius: 8px;">
+  <ul>
+    <li><strong>Programming Languages:</strong> Python, MATLAB, C++</li>
+    <li><strong>Technologies:</strong> Machine Learning, Deep Learning, ANSYS Fluent, CFD Simulations</li>
+    <li><strong>Development:</strong> Web Development, Robotics, 3D Printing</li>
+    <li><strong>Research:</strong> Multiscale modeling, Paraphrase Detection (NLP), Material Analysis</li>
+  </ul>
+
+  <h2>🚀 Projects & Achievements</h2>
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" alt="Projects GIF" style="width: 100px; border-radius: 8px;">
+  <ul>
+    <li>Designed a <strong>CFD drone simulation</strong> as part of the Robotics Club, where I serve as <strong>President</strong>.</li>
+    <li>Developed a <strong>paraphrase detection model</strong> using the Quora Question Pairs dataset.</li>
+    <li>Created a <strong>college fest promo</strong> for Leciel, showcasing creative direction and media editing skills.</li>
+    <li>Completed a <strong>45-day internship</strong> at <strong>Dr. Narla Tata Rao Thermal Power Station</strong>, working on <strong>boilers and turbines</strong>.</li>
+    <li>Published innovative solutions for optimizing <strong>3D printing techniques</strong>.</li>
+  </ul>
+
+  <h2>🌱 Currently</h2>
+  <img src="https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif" alt="Learning GIF" style="width: 100px; border-radius: 8px;">
+  <p>Exploring <strong>deep learning</strong> in NLP and material simulations. Seeking opportunities to collaborate on impactful projects or research.</p>
+
+  <h2>📫 Let's Connect!</h2>
+  <img src="https://media.giphy.com/media/1fg5lZ1GQts6Kkq8YY/giphy.gif" alt="Connect GIF" style="width: 100px; border-radius: 8px;">
+  <p>Feel free to check out my repositories, or reach out to discuss ideas and collaborations. Together, let's build the future! 😊</p>
+</div>
+
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+  <h1>About Me 👨‍💻</h1>
   <p>Hi there! I'm <strong>Pavan Sai</strong>, a <strong>B.Tech student in Mechanical Engineering</strong> with a minor in <strong>AI and ML</strong> at <strong>NIT Puducherry</strong>. My passion lies at the intersection of engineering, technology, and innovation.</p>
   
   <h2>🔧 Skills & Interests</h2>
@@ -35,8 +68,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pavansaib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavansaib/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/pavan.saiiii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pavan.saiiii/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pavansaib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavansaib/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pavan.saiiii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pavan.saiiii/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
