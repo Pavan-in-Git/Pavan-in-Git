@@ -13,7 +13,7 @@
     <li><strong>Research:</strong> Multiscale modeling, Paraphrase Detection (NLP), Material Analysis</li>
   </ul>
 
-  <h2>🚀 Projects & Achievement</h2>
+  <h2>🚀 Projects & Achievements</h2>
   <ul>
     <li>Designed a <strong>CFD drone simulation</strong> as part of the Robotics Club, where I serve as <strong>President</strong>.</li>
     <li>Developed a <strong>paraphrase detection model</strong> using the Quora Question Pairs dataset.</li>
